@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mpg.cosmart.com.ar/sitemap.xml
